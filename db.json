@@ -1,4 +1,4 @@
-[
+{
 	{
 		"precio": 25000,
 		"id": 1,
@@ -27,4 +27,4 @@
 		"descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
 		"thumbnailUrl": "https://res.cloudinary.com/universidad-de-cartagena/image/upload/v1632686860/hamburger-1238246__340_j4cd0d.jpg"
 	}
-]
+}
