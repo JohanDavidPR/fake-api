@@ -16,7 +16,7 @@
         "peso":"5g",
         "precio":2000,
         "cantidad":3,
-        "imagen":"../assets/Screenshot_8.png"
+        "imagen":"https://i.postimg.cc/Xq1tF04k/frutas.png"
     },
     {
         "id": 2,
@@ -25,7 +25,7 @@
         "peso":"500g",
         "precio":3000,
         "cantidad":5,
-        "imagen":"../assets/Screenshot_8.png"
+        "imagen":"https://i.postimg.cc/Xq1tF04k/frutas.png"
     },
     {
         "id": 3,
@@ -34,7 +34,7 @@
         "peso":"40g",
         "precio":500,
         "cantidad":6,
-        "imagen":"../assets/Screenshot_8.png"
+        "imagen":"https://i.postimg.cc/Xq1tF04k/frutas.png"
     },
     {
         "id": 4,
@@ -43,7 +43,7 @@
         "peso":"60g",
         "precio":700,
         "cantidad":8,
-        "imagen":"../assets/Screenshot_8.png"
+        "imagen":"https://i.postimg.cc/1X3Lfzhz/verduras.png"
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "peso":"500g",
         "precio":6500,
         "cantidad":4,
-        "imagen":"../assets/Screenshot_8.png"
+        "imagen":"https://i.postimg.cc/1X3Lfzhz/verduras.png"
     },
     {
         "id": 6,
@@ -61,7 +61,7 @@
         "peso":"1kg",
         "precio":2500,
         "cantidad":12,
-        "imagen":"../assets/Screenshot_8.png"
+        "imagen":"https://i.postimg.cc/s2FdwySn/cereal.png"
     },
     {
         "id": 7,
@@ -70,7 +70,7 @@
         "peso":"5g",
         "precio":2000,
         "cantidad":3,
-        "imagen":"../assets/Screenshot_8.png"
+        "imagen":"https://i.postimg.cc/Xq1tF04k/frutas.png"
     },
     {
         "id": 8,
@@ -79,7 +79,7 @@
         "peso":"2g",
         "precio":2000,
         "cantidad":7,
-        "imagen":"../assets/Screenshot_8.png"
+        "imagen":"https://i.postimg.cc/630kWvPS/hierba.png"
     }
 ],
   "productos": [
