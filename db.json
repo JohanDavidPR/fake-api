@@ -18,7 +18,7 @@
       "estado":"Disponible",
       "descripcion":"Promover la producción de colágeno en forma natural, por tu cuerpo. Fortalecer las articulaciones.",
       "categoria":"Salud",
-      "image":"../../assets/gemiled30.webp"
+      "image":"../../Assets/img/gemiled30.webp"
     },
     {
       "id":1022,
@@ -29,7 +29,7 @@
       "estado":"Disponible",
       "descripcion":"Bloqueador axiam proteccion contra rayos uv",
       "categoria":"Hogar",
-      "image":"../../assets/bloqueador.png"
+      "image":"../../Assets/img/bloqueador.png"
     },
     {
       "id":1023,
@@ -40,7 +40,7 @@
       "estado":"Disponible",
       "descripcion":"Benet mas calcio para fortalecer los huesos",
       "categoria":"Nutricion",
-      "image":"../../assets/benetCalcio.png"
+      "image":"../../Assets/img/benetCalcio.png"
     },
     {
       "id":1024,
@@ -51,7 +51,7 @@
       "estado":"Disponible",
       "descripcion":"Maxima frecura y proteccion bucal",
       "categoria":"Aseo personal",
-      "image":"../../assets/listerine.png"
+      "image":"../../Assets/img/listerine.png"
     },
     {
       "id":1025,
@@ -62,7 +62,7 @@
       "estado":"Disponible",
       "descripcion":"Papel higienico",
       "categoria":"Hogar",
-      "image":"../../assets/papel.png"
+      "image":"../../Assets/img/papel.png"
     },
     {
       "id":1026,
@@ -73,7 +73,7 @@
       "estado":"Disponible",
       "descripcion":"Pañales para bebe etapa 4",
       "categoria":"Bebes",
-      "image":"../../assets/pañales.png"
+      "image":"../../Assets/img/pañales.png"
     },
     {
       "id":1027,
@@ -84,7 +84,7 @@
       "estado":"Disponible",
       "descripcion":"Pilas duraccel por 6 unidades",
       "categoria":"Hogar",
-      "image":"../../assets/pilas.webp"
+      "image":"../../Assets/img/pilas.webp"
     },
     {
         "id":1028,
@@ -95,7 +95,7 @@
         "estado":"Disponible",
         "descripcion":"Aerosol raid elimina insectos",
         "categoria":"Hogar",
-        "image":"../../assets/raid.webp"
+        "image":"../../Assets/img/raid.webp"
     },
     {
       "id":1029,
@@ -106,7 +106,7 @@
       "estado":"Disponible",
       "descripcion":"Talco yodora maxima proteccion 24 horas.",
       "categoria":"Salud",
-      "image":"../../assets/yodora.png"
+      "image":"../../Assets/img/yodora.png"
     }
   ],
   "productoVue":[
