@@ -164,7 +164,28 @@
         ],
         "back": [],
         "bd": []
-      }
+      },
+      "developers": [
+        {
+          "name": "Johan David Portocarrero",
+          "photo": "https://i.postimg.cc/28JTJD92/Joe-Uriah-Commission-by-The-Zombie-Cat-on-Deviant-Art.png",
+          "contact": {
+            "github": "https://github.com/JohanDavidPortocarrero",
+            "briefcase": null,
+            "blog": null,
+            "social-media": {
+              "linkedin": "https://www.linkedin.com/in/johan-david-portocarrero-ruiz-045602262/"
+            }
+          }
+        },
+        {
+          "name": "Anonimo Development",
+          "photo": "https://i.postimg.cc/tRtSbxfJ/usuario-1.png",
+          "contact": {
+            "github": "https://github.com/JohanDavidPR"
+          }
+        }
+      ]
     },
     {
       "id": 2,
@@ -191,7 +212,21 @@
         "bd": [
           "postgresSQL"
         ]
-      }
+      },
+      "developers": [
+        {
+          "name": "Johan David Portocarrero",
+          "photo": "https://i.postimg.cc/28JTJD92/Joe-Uriah-Commission-by-The-Zombie-Cat-on-Deviant-Art.png",
+          "contact": {
+            "github": "https://github.com/JohanDavidPortocarrero",
+            "briefcase": null,
+            "blog": null,
+            "social-media": {
+              "linkedin": "https://www.linkedin.com/in/johan-david-portocarrero-ruiz-045602262/"
+            }
+          }
+        }
+      ]
     }
   ]
 }
