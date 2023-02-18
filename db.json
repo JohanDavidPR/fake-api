@@ -1,148 +1,24 @@
 {
-  "productoVue": [
+  "stack":[
     {
       "id": 1,
-      "nombre": "Pera",
-      "categoria": "Frutas",
-      "peso": "5g",
-      "precio": 2000,
-      "cantidad": 3,
-      "imagen": "https://i.postimg.cc/G3XW6vGT/verduras2.png"
+      "name": "React",
+      "icon": "https://i.postimg.cc/jdpGKh5s/react.png"
     },
     {
       "id": 2,
-      "nombre": "Aguacate",
-      "categoria": "Frutas",
-      "peso": "500g",
-      "precio": 3000,
-      "cantidad": 5,
-      "imagen": "https://i.postimg.cc/G3XW6vGT/verduras2.png"
+      "name": "CSS",
+      "icon": "https://i.postimg.cc/mZ6vp4W1/css-3.png"
     },
     {
       "id": 3,
-      "nombre": "Granadilla",
-      "categoria": "Frutas",
-      "peso": "40g",
-      "precio": 500,
-      "cantidad": 6,
-      "imagen": "https://i.postimg.cc/G3XW6vGT/verduras2.png"
+      "name": "JS",
+      "icon": "https://i.postimg.cc/Mp1gGjM1/js-file-1.png"
     },
     {
       "id": 4,
-      "nombre": "Ajo",
-      "categoria": "Verduras",
-      "peso": "60g",
-      "precio": 700,
-      "cantidad": 8,
-      "imagen": "https://i.postimg.cc/G3XW6vGT/verduras2.png"
-    },
-    {
-      "id": 5,
-      "nombre": "Alverja",
-      "categoria": "Verduras",
-      "peso": "500g",
-      "precio": 6500,
-      "cantidad": 4,
-      "imagen": "https://i.postimg.cc/G3XW6vGT/verduras2.png"
-    },
-    {
-      "id": 6,
-      "nombre": "Arroz",
-      "categoria": "Granos",
-      "peso": "1kg",
-      "precio": 2500,
-      "cantidad": 12,
-      "imagen": "https://i.postimg.cc/G3XW6vGT/verduras2.png"
-    },
-    {
-      "id": 7,
-      "nombre": "Manzana",
-      "categoria": "Frutas",
-      "peso": "5g",
-      "precio": 2000,
-      "cantidad": 3,
-      "imagen": "https://i.postimg.cc/G3XW6vGT/verduras2.png"
-    },
-    {
-      "id": 8,
-      "nombre": "Manzanilla",
-      "categoria": "Hierbas&Aromaticas",
-      "peso": "2g",
-      "precio": 2000,
-      "cantidad": 7,
-      "imagen": "https://i.postimg.cc/G3XW6vGT/verduras2.png"
-    }
-  ],
-  "productos": [
-    {
-      "precio": 25000,
-      "id": 1,
-      "title": "Carne",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://res.cloudinary.com/universidad-de-cartagena/image/upload/v1632686780/hors-doeuvre-2175326__480_cq1xtg.jpg"
-    },
-    {
-      "precio": 20000,
-      "id": 2,
-      "title": "Pescado",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://res.cloudinary.com/universidad-de-cartagena/image/upload/v1632686841/salmon-518032__340_nbjntu.jpg"
-    },
-    {
-      "precio": 17000,
-      "id": 3,
-      "title": "Hamburguesa",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://res.cloudinary.com/universidad-de-cartagena/image/upload/v1632686860/hamburger-1238246__340_j4cd0d.jpg"
-    },
-    {
-      "precio": 10000,
-      "id": 4,
-      "title": "Ensalada",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://res.cloudinary.com/universidad-de-cartagena/image/upload/v1632686860/hamburger-1238246__340_j4cd0d.jpg"
-    },
-    {
-      "precio": 10000,
-      "id": 5,
-      "title": "Sushi",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://i.postimg.cc/1X96n6m4/p2.jpg"
-    },
-    {
-      "precio": 10000,
-      "id": 6,
-      "title": "Chicharon",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://i.postimg.cc/BnyxYXgw/p3.jpg"
-    },
-    {
-      "precio": 10000,
-      "id": 7,
-      "title": "Plato 7",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://i.postimg.cc/mk89QDkj/p5.jpg"
-    },
-    {
-      "precio": 10000,
-      "id": 8,
-      "title": "Arroz mixto",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://i.postimg.cc/pdFKgRcV/p6.jpg"
-    },
-    {
-      "precio": 10000,
-      "id": 9,
-      "title": "chuzos",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://i.postimg.cc/J0P3kdVH/foto1-2x.png"
-    },
-    {
-      "precio": 10000,
-      "id": 10,
-      "title": "Camarones",
-      "descrip": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "thumbnailUrl": "https://i.postimg.cc/VLmH03Mv/menu5-2x.png"
+      "name": "Vue",
+      "icon": "https://i.postimg.cc/Nf9WWnQJ/brands.png"
     }
   ],
   "project": [
